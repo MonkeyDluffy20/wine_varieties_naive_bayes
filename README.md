@@ -8,7 +8,7 @@ The Naive Bayes classifier is a simple probabilistic classifier based on applyin
 
 ## Requirements
 
-- Python 3.8 or higher
+- Python 3.10 or higher
 - numpy
 - pandas
 - scikit-learn
